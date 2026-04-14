@@ -2,6 +2,4 @@
 
 AH É
 
-<p align="center">
-    <img src="./image/vetor.jpg" width="700" alt="Vetor"">
-</p>
+[![vetor.jpg](https://i.pinimg.com/originals/22/af/b1/22afb152db3345ecacd120ae7398ce23.jpg)]
